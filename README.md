@@ -1,6 +1,6 @@
 # Calculator
 
-### Description
+## Description
 This program does basic calculator functions including:
 * Addition
 * Subtraction
